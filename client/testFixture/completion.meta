@@ -1,0 +1,7 @@
+x = 5 * 4;
+y = x + 20;
+awd = 5;
+q = y / q + awd;
+
+qawd = 5;
+xawd = qawd + 20;
